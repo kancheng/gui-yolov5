@@ -1,5 +1,7 @@
 # GUI
 
+![DEMO](pages.gif)
+
 ## Install
 
 ```
